@@ -20,9 +20,11 @@
 
 *  To Run the program :
     * Things needed to install :
-        * WPF (.NET Framework)
-        * Dapper Extension and csv helper (NuGetPackages)
-        * SQL extension
+        * Visual Studio 2019
+           * WPF (.NET Framework)
+           * Dapper Extension and csv helper (NuGetPackages)
+           * SQL extension
+        * Microsoft SQL Server
 
 * How to clone the Database:
     *  Install Database and SQL frameworks for VisualStudio.
