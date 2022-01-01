@@ -1,0 +1,8 @@
+﻿
+CREATE PROCEDURE [dbo].[usp_GetEmployees]
+	
+AS
+SET NOCOUNT ON
+BEGIN
+	SELECT * FROM Employee
+END

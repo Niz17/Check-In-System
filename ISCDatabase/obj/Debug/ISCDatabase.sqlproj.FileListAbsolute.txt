@@ -1,0 +1,10 @@
+C:\Users\satis\Desktop\database_final_isc\FinalProjectISC\ISCDatabase\bin\Debug\ISCDatabase.dacpac
+C:\Users\satis\Desktop\database_final_isc\FinalProjectISC\ISCDatabase\bin\Debug\ISCDatabase.dll
+C:\Users\satis\Desktop\database_final_isc\FinalProjectISC\ISCDatabase\bin\Debug\ISCDatabase.pdb
+C:\Users\satis\Desktop\database_final_isc\FinalProjectISC\ISCDatabase\obj\Debug\ISCDatabase.sqlproj.AssemblyReference.cache
+C:\Users\satis\Desktop\database_final_isc\FinalProjectISC\ISCDatabase\obj\Debug\Model.xml
+C:\Users\satis\Desktop\database_final_isc\FinalProjectISC\ISCDatabase\obj\Debug\refactor.xml
+C:\Users\satis\Desktop\database_final_isc\FinalProjectISC\ISCDatabase\obj\Debug\postdeploy.sql
+C:\Users\satis\Desktop\database_final_isc\FinalProjectISC\ISCDatabase\obj\Debug\predeploy.sql
+C:\Users\satis\Desktop\database_final_isc\FinalProjectISC\ISCDatabase\obj\Debug\ISCDatabase.dll
+C:\Users\satis\Desktop\database_final_isc\FinalProjectISC\ISCDatabase\obj\Debug\ISCDatabase.pdb

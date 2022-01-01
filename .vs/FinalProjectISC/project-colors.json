@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1233c0a2-bdca-4bb6-9506-9f9afb1d63af": {
+      "ProjectGuid": "1233c0a2-bdca-4bb6-9506-9f9afb1d63af",
+      "DisplayName": "FinalProjectISC",
+      "ColorIndex": 0
+    },
+    "917c11cc-0c1e-4e0f-baeb-95e923927d8f": {
+      "ProjectGuid": "917c11cc-0c1e-4e0f-baeb-95e923927d8f",
+      "DisplayName": "ISCDatabase",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bb7a4a2d-9ba6-4d70-9a61-221e8cde7f3c": {
+      "ProjectGuid": "bb7a4a2d-9ba6-4d70-9a61-221e8cde7f3c",
+      "DisplayName": "ISCform",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

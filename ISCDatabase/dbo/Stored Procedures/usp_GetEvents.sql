@@ -1,0 +1,8 @@
+﻿
+CREATE PROCEDURE [dbo].[usp_GetEvents]
+	
+AS
+SET NOCOUNT ON
+BEGIN
+	SELECT * FROM Events
+END

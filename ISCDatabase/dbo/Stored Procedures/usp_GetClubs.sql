@@ -1,0 +1,8 @@
+﻿
+CREATE PROCEDURE [dbo].[usp_GetClubs]
+	
+AS
+SET NOCOUNT ON
+BEGIN
+	SELECT * FROM Clubs
+END

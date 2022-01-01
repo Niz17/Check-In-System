@@ -1,0 +1,7 @@
+﻿CREATE PROCEDURE [dbo].[usp_GetStudents]
+
+AS
+SET NOCOUNT ON
+BEGIN
+	SELECT * FROM Student
+END
